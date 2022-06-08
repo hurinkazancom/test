@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T06:53:29.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="mI5MlRPKesQ_OzVV_zvD" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T06:56:03.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="xfRBxiAbMFMAg5SLBRz2" version="19.0.0" type="github">
   <diagram id="X_uQk7BK54YbEMtX285s" name="Page-1">
-    <mxGraphModel dx="968" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,94 +86,94 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-28" value="mothers" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1030" width="45" height="78" as="geometry" />
+          <mxGeometry x="329" y="1030" width="45" height="78" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-29" value="請求データ" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_database;" vertex="1" parent="1">
-          <mxGeometry x="249.74" y="1049" width="30.26" height="40" as="geometry" />
+          <mxGeometry x="398.74" y="1049" width="30.26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-30" value="EC-CUBE(管理機能のみ利用)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1020" width="170" height="20" as="geometry" />
+          <mxGeometry x="389" y="1020" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.5" y="1341.8365230009022" as="sourcePoint" />
-            <mxPoint x="460.3352383607471" y="1374" as="targetPoint" />
+            <mxPoint x="298.5" y="1341.8365230009022" as="sourcePoint" />
+            <mxPoint x="609.3352383607471" y="1374" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="1374" />
+              <mxPoint x="299" y="1374" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W94mFD7Sm96_-OhgsIUf-31" target="W94mFD7Sm96_-OhgsIUf-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="1230" />
-              <mxPoint x="203" y="1230" />
+              <mxPoint x="299" y="1230" />
+              <mxPoint x="352" y="1230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-31" value="RIZE" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
-          <mxGeometry x="127" y="1265" width="45" height="78" as="geometry" />
+          <mxGeometry x="276" y="1265" width="45" height="78" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.178;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W94mFD7Sm96_-OhgsIUf-34" target="W94mFD7Sm96_-OhgsIUf-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="499" y="1290" />
+              <mxPoint x="648" y="1290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-34" value="弥生" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1337" width="78" height="76" as="geometry" />
+          <mxGeometry x="609" y="1337" width="78" height="76" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-35" value="2.PB売上データ&lt;br&gt;CSV連携" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_database;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1385" width="30.26" height="40" as="geometry" />
+          <mxGeometry x="429" y="1385" width="30.26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W94mFD7Sm96_-OhgsIUf-37" target="W94mFD7Sm96_-OhgsIUf-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-37" value="AP-ONLINE" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1030" width="45" height="78" as="geometry" />
+          <mxGeometry x="199" y="1030" width="45" height="78" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-39" value="受注情報" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1080" width="60" height="20" as="geometry" />
+          <mxGeometry x="259" y="1080" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-40" value="EC-CUBE&lt;br&gt;(EC機能のみ利用)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1460" width="110" height="30" as="geometry" />
+          <mxGeometry x="849" y="1460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="W94mFD7Sm96_-OhgsIUf-41" target="W94mFD7Sm96_-OhgsIUf-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="636.7" y="1375" as="sourcePoint" />
-            <mxPoint x="560" y="1365" as="targetPoint" />
+            <mxPoint x="785.7" y="1375" as="sourcePoint" />
+            <mxPoint x="709" y="1365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-41" value="販促" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1336" width="45" height="78" as="geometry" />
+          <mxGeometry x="869" y="1336" width="45" height="78" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-44" value="スクラッチEC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1010" width="90" height="20" as="geometry" />
+          <mxGeometry x="174" y="1010" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-48" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1325" width="40" height="40" as="geometry" />
+          <mxGeometry x="769" y="1325" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-49" value="請求情報登録&lt;br&gt;配送作業" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1405" width="90" height="30" as="geometry" />
+          <mxGeometry x="699" y="1405" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-51" value="受注情報" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1405" width="60" height="20" as="geometry" />
+          <mxGeometry x="799" y="1405" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-52" value="3.プロタイムズ&lt;br&gt;全売上データ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1260" width="100" height="30" as="geometry" />
+          <mxGeometry x="494" y="1260" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W94mFD7Sm96_-OhgsIUf-53" target="W94mFD7Sm96_-OhgsIUf-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-53" value="PB" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1265" width="45" height="78" as="geometry" />
+          <mxGeometry x="77" y="1265" width="45" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="W94mFD7Sm96_-OhgsIUf-55" value="1.完工&lt;br&gt;データ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="1305" width="50" height="30" as="geometry" />
+        <mxCell id="W94mFD7Sm96_-OhgsIUf-55" value="1.完工/月額データ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1311" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="W94mFD7Sm96_-OhgsIUf-58" value="4.プロタイムズ全請求データ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1190" width="170" height="20" as="geometry" />
+          <mxGeometry x="284" y="1190" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
